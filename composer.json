@@ -1,0 +1,12 @@
+{
+    "require": {
+        "illuminate/support": "^8.14",
+        "psalm/plugin-laravel": "^1.4",
+        "vimeo/psalm": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ns1\\Ns2\\": "src/"
+        }
+    }
+}
