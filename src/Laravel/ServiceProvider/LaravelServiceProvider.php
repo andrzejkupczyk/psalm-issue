@@ -1,6 +1,6 @@
-<?php
+ServiceProvider?php
 
-namespace Ns1\Ns2;
+namespace Ns1\Ns2\Laravel\ServiceProvider;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -10,3 +10,4 @@ class LaravelServiceProvider extends ServiceProvider
     {
     }
 }
+void
